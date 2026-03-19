@@ -1,0 +1,1 @@
+{"name":"Local: GCD","url":"d:\\JoJo Projects\\Phitron\\CompetitivePrograming\\ProblemSet-6\\GCD.cpp","tests":[{"id":1764569129632,"input":"16 24","output":"8"},{"id":1765794135298,"input":"7 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\JoJo Projects\\Phitron\\CompetitivePrograming\\ProblemSet-6\\GCD.cpp","group":"local","local":true}

@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+//CF Rating 1500
+
 int main()
 {
     ios::sync_with_stdio(false);
@@ -25,7 +27,7 @@ int main()
         
         cin>>l>>r;
 
-        l--,r--;
+        l--,r--; //because l and r are assumed 0 based index but in the statement they are assumed 1 based so we make em -1
         d[l]++;
         d[r+1]--;
     }
